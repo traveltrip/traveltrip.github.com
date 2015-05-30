@@ -1,7 +1,7 @@
 ---
 layout: page
-title: link01
-permalink: /link01/
+title: gk
+permalink: /gk/
 ---
 
 <img src = "images/images.jpeg">
