@@ -5,6 +5,8 @@ date:   2015-05-30 23:52:38
 categories: jekyll update
 ---
 
+<img src  = "../images/images.jpeg"></img>
+
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
