@@ -7,8 +7,8 @@ categories: jekyll update
 
 <img src  = "../images/images.jpeg"></img>
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+* 삼척 삼척시청에서 5㎞ 가량의 근거리에 위치한 곳으로서 일명 승공 해변이라고도 불리우는 이곳은 평균 수심 1~2m 정도이며, 물이 맑고 깨끗한 백사장을 보유하고 있고, 송림이 울창하여 가족 단위 피서지로 적격이다. 특이한 것은, 인접지에 6홀 규모의 골프연습장이 있어 스포츠와 바캉스를 같이 할 수 있다. 또한, 삼척시의 자매도시인 서울 성북구 주민들의 하계수련원이 설치되어 도농간 친목 도모 및 농수산물 직거래에도 기여하는 곳이다.
+
 
 Jekyll also offers powerful support for code snippets:
 
