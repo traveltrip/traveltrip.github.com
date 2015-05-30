@@ -1,8 +1,8 @@
 # Site settings
 title: "Comple Trip - 1박 2일"
-description: "So I was feeling nostalgic."
+description: "각 도별 연인들이 1박 2일로 놀러 가기 좋은 여행지"
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://traveltrip.github.io"
 
 # Build settings
 markdown: kramdown
@@ -21,5 +21,5 @@ links:
   - title: "rss"
     url: /feed.xml
   - titie: "ddd"
-    url: http://www.daum.net'
+    url: http://www.daum.net
     
