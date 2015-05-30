@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-05-24 23:52:38
+title:  "블로그 소개글"
+date:   2015-05-30 23:52:38
 categories: jekyll update
 ---
 
