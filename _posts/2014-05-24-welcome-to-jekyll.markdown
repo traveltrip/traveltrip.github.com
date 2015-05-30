@@ -5,7 +5,11 @@ date:   2015-05-30 23:52:38
 categories: jekyll update
 ---
 
+<<<<<<< HEAD
 <img src = "images/images01.jpg">
+=======
+<img src = images/images01.jpg> 
+>>>>>>> 2cb5503e2a31eec09e2dd19ce880cf2d5eaf46e7
 
 * 많은 연인들이 고민하는 1박 2일 여행지에 대한 정보를 제공하기 위해서 이 블로그를 만들게 되었습니다.
  				많은 정보를 얻어 가시기 바랍니다.^^*
