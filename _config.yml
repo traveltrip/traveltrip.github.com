@@ -1,36 +1,22 @@
-# Site wide configuration
+# Site settings
+title: "Typewriter"
+description: "So I was feeling nostalgic."
+baseurl: ""
+url: "http://alixedi.github.io"
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale:
-url:
-
-# Jekyll configuration
-
-sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
+# Build settings
+markdown: kramdown
+permalink: pretty
 highlighter: pygments
-gems:
-  - jekyll-sitemap
+paginate: 3
 
-
-# Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
-
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+# Links
+links:
+  - title: "abt"
+    url: /about
+  - title: "twt"
+    url: http://twitter.com/alixedi
+  - title: "git"
+    url: http://github.com/alixedi
+  - title: "rss"
+    url: /feed.xml

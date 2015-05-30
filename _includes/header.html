@@ -1,8 +1,20 @@
-<header id="masthead">
-  <div class="inner-wrap">
-    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
-    <nav role="navigation" class="menu top-menu">
-        {% include navigation.html %}
-    </nav>
-  </div><!-- /.inner-wrap -->
-</header><!-- /.masthead -->
+<div class="header">
+    <h1>
+        <a style="color: #000;" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </h1>
+    <p class="sub">
+        {{ site.description }}
+    </p>
+
+    <div class="menu">
+        <ul class="navlist">
+            {% for link in site.links %}
+            <li>
+                <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+
