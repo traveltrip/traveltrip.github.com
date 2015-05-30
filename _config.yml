@@ -1,5 +1,5 @@
 # Site settings
-title: "Typewriter"
+title: "Comple Trip - 1박 2일"
 description: "So I was feeling nostalgic."
 baseurl: ""
 url: "http://alixedi.github.io"
@@ -20,3 +20,6 @@ links:
     url: http://github.com/alixedi
   - title: "rss"
     url: /feed.xml
+  - titie: "ddd"
+    url: http://www.daum.net'
+    
