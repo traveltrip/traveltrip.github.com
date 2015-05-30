@@ -12,14 +12,12 @@ paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "경기도, 강원도"
     url: /about
-  - title: "twt"
+  - title: "충청도"
     url: http://twitter.com/alixedi
-  - title: "git"
+  - title: "전라도"
     url: http://github.com/alixedi
-  - title: "rss"
-    url: /feed.xml
-  - titie: "ddd"
+  - title: "경상도"
     url: http://www.daum.net
-    
+
