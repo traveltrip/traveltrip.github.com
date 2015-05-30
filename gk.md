@@ -21,5 +21,5 @@ dddddd
       alt="Flag" title="Flag - says if it safe to swim">
   </map>
 </div>
-<p><img src="images/korea.png" alt="" usemap="#beachmap"></p>
+<p><img src="http://www1.korea-np.co.jp/pk/064th_issue/Korean_Map.jpg" alt="" usemap="#beachmap"></p>
 
