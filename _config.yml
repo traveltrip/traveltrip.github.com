@@ -1,5 +1,6 @@
 # Site settings
-title: "Comple Trip - 1박 2일"
+title: "Couple Trip - 1박 2일"
+<p></p>
 description: "각 도별 연인들이 1박 2일로 놀러 가기 좋은 여행지"
 baseurl: ""
 url: "http://traveltrip.github.io"
@@ -14,12 +15,16 @@ paginate: 3
 links:
   - title: "경기도, 강원도"
     url: /about
+    <p></p>
   - title: "충청도"
     url: http://twitter.com/alixedi
+    <p></p>
   - title: "전라도"
     url: http://github.com/alixedi
+    <p></p>
   - title: "경상도"
     url: http://www.daum.net
-  - title: "라파엘"
+    <p></p>
+  - title: "지도로 보는 관광지(One Click)"
     url: /gk
 
