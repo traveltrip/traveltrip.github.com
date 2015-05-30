@@ -57,6 +57,7 @@ a.page-link:hover {
 
 .navlist {
   padding: 0px 0px;
+  color: red;
 }
 
 .navlist > li {
